@@ -17,3 +17,5 @@ This is a collection of my works on numerical analysis, including the topics of
     2. Approximating functions
         1. Polynomial interpolation: Lagrange form, Newton form, ...
         2. Spline interpolation
+
+https://github.com/thn003/optimization_num_analysis/blob/master/Numerical%20Analysis/Bisection%20Algorithm.ipynb
