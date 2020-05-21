@@ -11,4 +11,4 @@ This repository is a selection of my works on Optimization and Numerical Analysi
 
 This will be updated as new works are done and can be published.
 
-
+https://github.com/thn003/optimization_num_analysis/tree/master/Numerical%20Analysis
