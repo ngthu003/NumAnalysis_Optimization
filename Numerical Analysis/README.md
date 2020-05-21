@@ -6,8 +6,6 @@ This is a collection of my works on numerical analysis, including the topics of
         2. Cholesky decomposition
     2. Singular Value Decomposition
     3. Approximating Eigenvalues and Eigenvectors
-        1. Jacobi method
-        2. Gauss-Seidel method
 
 2. __Approximation and Non-linear Equations__
     1. Approximating roots of solution:
