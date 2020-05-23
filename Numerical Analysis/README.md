@@ -14,6 +14,5 @@ This is a collection of my works on numerical analysis, including the topics of
         3. Functional iteration
     2. Approximating functions
         1. [Polynomial interpolation](https://github.com/thn003/optimization_num_analysis/blob/master/Numerical%20Analysis/Interpolating%20Polynomials%20-%20Newton%20form.ipynb): Lagrange form, Newton form, ...
-        [Newton method](https://github.com/thn003/optimization_num_analysis/blob/master/Numerical%20Analysis/Newton%20Method%20-%20Implicit%20function.ipynb)
         2. Spline interpolation
         
