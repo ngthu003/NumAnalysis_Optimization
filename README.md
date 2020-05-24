@@ -13,5 +13,6 @@ This repository is a selection of my works on Optimization and Numerical Analysi
 
     1. Convex Optimization, with a touch on Non-convex optimization.
     2. Constrained and Unconstrained Optimization.
+    3. First-order and Second-order methods.
 
 This will be updated as new works are done and can be published.
