@@ -8,5 +8,10 @@ This repository is a selection of my works on Optimization and Numerical Analysi
     2. Diagonalizing and doing Singular Value Decomposition.
     3. Approximating solutions of non-linear equations.
     4. Approximating and interpolating polynomials from a set of data points.
+    
+2. __Optimization__
+
+    1. Convex Optimization, with a touch on Non-convex optimization.
+    2. Constrained and Unconstrained Optimization.
 
 This will be updated as new works are done and can be published.
