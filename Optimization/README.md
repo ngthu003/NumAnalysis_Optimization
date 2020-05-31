@@ -4,6 +4,7 @@ This is a collection of my works on optimization, with a primary focus on *conve
     1.  Objective: minimize f(x)
     2.  Equality conditions
     3.  Inequality conditions
+
 2.  __First-order__ methods:
     1.  Gradient descent
         1.  Standard Gradient descent
@@ -11,5 +12,8 @@ This is a collection of my works on optimization, with a primary focus on *conve
         3.  GD with Nesterov
     2.  Stochastic gradient descent
     3.  Conjugate descent
+    4.  Dual ascent
+    5.  Method of multipliers
+
 3.  __Second-order__ methods:
     1.  Newton's method
