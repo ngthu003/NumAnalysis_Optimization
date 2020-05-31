@@ -1,6 +1,9 @@
 This is a collection of my works on optimization, with a primary focus on *convex optimization*, including the topics of
 
-1.  __Unconstrained__ vs. __Constrained__ optimization
+1.  __Unconstrained__ vs. __Constrained__ optimization:
+    1.  Objective: minimize f(x)
+    2.  Equality conditions
+    3.  Inequality conditions
 2.  __First-order__ methods:
     1.  Gradient descent
         1.  Standard Gradient descent
