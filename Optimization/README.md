@@ -2,8 +2,8 @@ This is a collection of my works on optimization, with a primary focus on *conve
 
 1.  __Unconstrained__ vs. __Constrained__ optimization:
     1.  Objective: minimize f(x)
-    2.  Equality conditions
-    3.  Inequality conditions
+    2.  Equality conditions, for example h(x) = 0
+    3.  Inequality conditions, for example g(x) <= 0
 
 2.  __First-order__ methods:
     1.  Gradient descent
