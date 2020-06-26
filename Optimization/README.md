@@ -1,4 +1,14 @@
-This is a collection of my works on optimization, with a primary focus on *convex optimization*, including the topics of
+###### Background Information
+
+>  This repository a collection of my works on __numerical optimization__, with a primary focus on *convex optimization*.
+
+>  Most of the algorithms were introduced in the `Math 173 A-B - Optimization for Data Science` classes at UCSD. We studies the motivations (ie. the problems we want to solve) and the algorithms, both their theoretical results and actual performance.
+
+***
+
+<br/>
+
+#### Main Topics
 
 1.  __Unconstrained__ vs. __Constrained__ optimization:
     1.  Objective: minimize f(x)
