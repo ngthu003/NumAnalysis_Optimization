@@ -22,7 +22,7 @@
         3.  GD with Nesterov
     2.  Stochastic gradient descent
     3.  Conjugate descent
-    4.  __[Dual ascent]__(https://nbviewer.jupyter.org/github/thn003/NumAnalysis_Optimization/blob/master/Optimization/Dual%20Ascent.ipynb)
+    4.  __[Dual ascent](https://nbviewer.jupyter.org/github/thn003/NumAnalysis_Optimization/blob/master/Optimization/Dual%20Ascent.ipynb)__
     5.  Method of multipliers
 
 3.  __Second-order__ methods:
