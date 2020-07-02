@@ -2,7 +2,7 @@
 
 >  This repository a collection of my works on __numerical optimization__, with a primary focus on *convex optimization*.
 
->  Most of the algorithms were introduced in the `Math 173 A-B - Optimization for Data Science` classes at UCSD. We studies the motivations (ie. the problems we want to solve) and the algorithms, both their theoretical results and actual performance.
+>  Most of the algorithms, or their vanilla versions, were introduced in the `Math 173 A-B - Optimization for Data Science` classes at UCSD. We study the motivations (ie. the problems we want to solve) and the algorithms, both their theoretical results and actual performance.
 
 ***
 
