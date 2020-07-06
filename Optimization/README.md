@@ -17,13 +17,13 @@
 
 2.  __First-order__ methods:
     1.  Gradient descent
-        1.  __[Standard Gradient Descent](https://nbviewer.jupyter.org/github/thn003/optimization_num_analysis/blob/master/Optimization/Gradient%20Descent%20Algorithm.ipynb#Helper_Functions)__
+        1.  __[(Standard) Gradient Descent](https://nbviewer.jupyter.org/github/thn003/NumAnalysis_Optimization/blob/master/Optimization/Gradient%20Descent.ipynb)__
         2.  GD with Momentum
         3.  GD with Nesterov
-    2.  Stochastic gradient descent
-    3.  Conjugate descent
+    2.  Stochastic Gradient Descent
+    3.  Conjugate Descent
     4.  __[Dual Ascent](https://nbviewer.jupyter.org/github/thn003/NumAnalysis_Optimization/blob/master/Optimization/Dual%20Ascent.ipynb)__
-    5.  Method of multipliers
+    5.  __[Method of Multipliers](https://nbviewer.jupyter.org/github/thn003/NumAnalysis_Optimization/blob/master/Optimization/Method%20of%20Multipliers.ipynb)__
 
 3.  __Second-order__ methods:
     1.  Newton's method
