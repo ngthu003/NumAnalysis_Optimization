@@ -27,3 +27,11 @@
 
 3.  __Second-order__ methods:
     1.  Newton's method
+
+
+
+An example of the convergence rate across different variants of Gradient Descent on the MNIST dataset.
+
+<center>
+<img src="https://github.com/thn003/NumAnalysis_Optimization/blob/master/Optimization/MNIST%20Digits%20-%20Algorithms%20convergence%20rates.png" width="60%" height="60%" class="center">
+</center>
