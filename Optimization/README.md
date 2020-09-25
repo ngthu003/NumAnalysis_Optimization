@@ -30,7 +30,7 @@
 
 
 
-An example of the convergence rate across different variants of Gradient Descent on the MNIST dataset.
+An example of the convergence rate across different [variants of Gradient Descent on the MNIST dataset](https://nbviewer.jupyter.org/github/thn003/NumAnalysis_Optimization/blob/master/Optimization/Code/MNIST%20-%20Gradient%20Descent%20and%20Variants.ipynb#GD_Variants).
 
 <center>
 <img src="https://github.com/thn003/NumAnalysis_Optimization/blob/master/Optimization/MNIST%20Digits%20-%20Algorithms%20convergence%20rates.png" width="60%" height="60%" class="center">
